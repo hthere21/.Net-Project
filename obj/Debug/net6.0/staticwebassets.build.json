@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "imK6714xr4gXn/Zk5L/BqAewN5UcTe7G6NGyMm58JGU=",
+  "Hash": "Wh0hqjjt+I1wVnZEom2knJUTW3nO37OvLmRYtr2Z7W0=",
   "Source": "Project_.Net 6",
   "BasePath": "_content/Project_.Net 6",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Project\\Project_.Net\\.Net-Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project_.Net 6.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Project\\Project_.Net\\.Net-Project\\wwwroot\\css\\bootSwatchTheme.css",
+      "SourceId": "Project_.Net 6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\Project_.Net\\.Net-Project\\wwwroot\\",
+      "BasePath": "_content/Project_.Net 6",
+      "RelativePath": "css/bootSwatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootSwatchTheme.css"
     },
     {
       "Identity": "D:\\Project\\Project_.Net\\.Net-Project\\wwwroot\\css\\site.css",
